@@ -10,7 +10,7 @@ SESSION_ID: process.env.SESSION_ID || "malvin~sjtkzQYT#fF1vNpbmzd2QeK87LQuWd2aID
 // add your Session Id make sure it starts with malvin~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
+BOT_NAME: process.env.BOT_NAME || "Hasaan-md",
 // add bot name here for menu
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
@@ -71,16 +71,16 @@ LINK_WHITELIST: "youtube.com,github.com",
           OWNER_NUMBER: process.env.OWNER_NUMBER || "923126675673",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
+OWNER_NAME: process.env.OWNER_NAME || "Hasaan",
 // add bot owner name
 
-              DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*",
+              DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Hasaan*",
 // add bot owner name    
 
         READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
 
-                 AUTO_REACT: process.env.AUTO_REACT || "false",
+                 AUTO_REACT: process.env.AUTO_REACT || "true",
 // make this true or false for auto react on all msgs
                 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words  
@@ -124,7 +124,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
 version: process.env.version || "0.0.5",
 
     
-START_MSG: process.env.START_MSG || `*Hᴇʟʟᴏ ᴛʜᴇʀᴇ ᴍᴀʟᴠɪɴ xᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ! 👋🏻* 
+START_MSG: process.env.START_MSG || `*Hᴇʟʟᴏ ᴛʜᴇʀᴇ Hasaan MD ᴄᴏɴɴᴇᴄᴛᴇᴅ! 👋🏻* 
 
     *ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ ᴍᴀʟᴠɪɴ ᴍᴏᴅs🚩* 
 
